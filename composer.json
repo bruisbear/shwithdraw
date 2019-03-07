@@ -1,0 +1,19 @@
+{
+  "name": "shire/shwithdraw",
+  "description": "one test",
+  "type": "libiary",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "shfire",
+      "email": "1609763063@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "shwithdraw\\": "src"
+    }
+  }
+}
